@@ -1,7 +1,8 @@
 ## Hey, I'm Franklin 👋  
 
-I am currently a Master's student at the University of Chicago and am interested in ML, particularly generative models, and a sprinkle of quantiative finance.
 ---
+
+I am currently a Master's student at the University of Chicago and am interested in ML, particularly generative models, and a sprinkle of quantitative finance.
 
 - 🔭 I’m currently interested in and working on:  
   - Crypto and prediction markets
