@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hey, I'm Franklin 👋  
 
-<!--
-**frank22lin/frank22lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a Master's student at the University of Chicago and am interested in ML, particularly generative models, and a sprinkle of quantiative finance.
+---
 
-Here are some ideas to get you started:
+- 🔭 I’m currently interested in and working on:  
+  - Crypto and prediction markets
+  - Kaggle Challenges
+    
+- 🌱 I’m currently learning:  
+  - Practical Deep Learning and want to document my learning process 
+ 
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/franklin-liu) · [Email](mailto:franklinliu@uchicago.edu)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
